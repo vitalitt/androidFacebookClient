@@ -1,4 +1,7 @@
 # androidFacebookClient
+( P.S. This is a laboratory work at the university, I do not want to delete it, so as not to forget how much I hate it)
+
+
 details:
 Я использовал android facebook sdk (https://developers.facebook.com/docs/android/componentsdks), 
 а также модуль picasso для загрузки картинки профиля пользователя с урла.
